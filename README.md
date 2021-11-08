@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/411641088944766982)](https://discord.com/users/411641088944766982)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/411641088944766982?idleMessage=Busy%20torturing%20myself%20with%20programming%20errors....&theme=dark)](https://discord.com/users/411641088944766982)
 
 - 👋 Hi, I’m @RealStr1ke
 - 👀 I’m interested in video games, software, and data science.
