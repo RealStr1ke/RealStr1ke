@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
     <br />
     Interested in data science, software, and video game development.
     <br />
-    Working on a discord bot for my school's server, and a COVID-19 dashboard for a project.
+    Working on a Discord bot for my school's server, and a COVID-19 dashboard for a project.
     <br />
     Currently learning NodeJS, MySQL, Ruby, and database management.
 </strong>
