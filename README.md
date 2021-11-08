@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
     pronouns: "He" | "Him",
     code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
     tools: [Node, Docker🐳],
-    interests: ["Web Development", "Tec", "app dev", "photography"],
+    interests: ["Web Development", "Front-End", "Back-End", "APIs", "Data Science", "Servers"],
     databases: [MongoDB, MySQL, SQLite],
     currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],
     funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
