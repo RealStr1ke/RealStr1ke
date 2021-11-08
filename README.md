@@ -2,11 +2,20 @@
 RealStr1ke/RealStr1ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2 align="center">Hi :wave:, I'm Str1ke!</h2>
 
-- 👋 Hi, I’m @RealStr1ke
-- 👀 I’m interested in video games, software, and data science.
-- 🌱 I’m currently learning JavaScript and Ruby.
-- 📫 You can reach me by DM-ing me on Discord (Str1ke#0270).
+<h3 align="center">About me</h3>
+
+<p align="center"><strong>
+    I'm a 14 year old high school freshman who just programs random projects for fun.
+    <br />
+    Interested in data science, software, and video game development.
+    <br />
+    Working on a discord bot for my school's server, and a COVID-19 dashboard for a project.
+    <br />
+    Currently learning NodeJS, MySQL, Ruby, and database management.
+</strong>
+</p>
 
 <hr />
 
