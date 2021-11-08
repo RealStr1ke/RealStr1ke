@@ -28,7 +28,17 @@ You can click the Preview link to take a look at your changes.
     funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
 };</code>
 </pre>
-
+```js
+const str1ke = { 
+    pronouns: "He" | "Him",
+    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+    tools: [Node, Docker🐳],
+    interests: ["Web Development", "Front-End", "Back-End", "APIs", "Data Science", "Servers"],
+    databases: [MongoDB, MySQL, SQLite],
+    currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],
+    funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
+};
+```
 
 
 <h3 align="center">Discord Profile Status</h3>
