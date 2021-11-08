@@ -17,15 +17,15 @@ You can click the Preview link to take a look at your changes.
 </strong>
 </p>
 <code>
-const str1ke = {
-    pronouns: "He" | "Him",
-    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-    tools: [Node, Docker🐳],
-    interests: ["Web Development", "Tec", "app dev", "photography"],
-    databases: [MongoDB, MySQL, SQLite],
-    currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],
-    funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
-   };
+const str1ke = { <br />
+    pronouns: "He" | "Him",<br />
+    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],<br />
+    tools: [Node, Docker🐳],<br />
+    interests: ["Web Development", "Tec", "app dev", "photography"],<br />
+    databases: [MongoDB, MySQL, SQLite],<br />
+    currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],<br />
+    funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"<br />
+   };<br />
 </code>
 <hr />
 
