@@ -1,3 +1,4 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/411641088944766982?theme=dark&idleMessage=Reading programming errors…..)](https://discord.com/users/411641088944766982)
 - 👋 Hi, I’m @RealStr1ke
 - 👀 I’m interested in video games, software, and data science.
 - 🌱 I’m currently learning JavaScript and Ruby.
