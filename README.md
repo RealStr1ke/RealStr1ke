@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     Currently learning NodeJS, MySQL, Ruby, and database management.
 </strong>
 </p>
-```javascript
+```
 const str1ke = {
     pronouns: "He" | "Him",
     code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
