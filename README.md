@@ -9,4 +9,4 @@
 RealStr1ke/RealStr1ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![trophy](https://github-profile-trophy.vercel.app/?username=RealStr1ke&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RealStr1ke&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
