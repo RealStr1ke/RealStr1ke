@@ -16,15 +16,15 @@ You can click the Preview link to take a look at your changes.
     Currently learning NodeJS, MySQL, Ruby, and database management.
 </strong>
 </p>
-<code>const str1ke = { </code>
-<code>    pronouns: "He" | "Him",</code>
-<code>    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],</code>
-<code>    tools: [Node, Docker🐳],</code>
-<code>    interests: ["Web Development", "Tec", "app dev", "photography"],</code>
-<code>    databases: [MongoDB, MySQL, SQLite],</code>
-<code>    currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],</code>
-<code>    funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"</code>
-<code>};</code>
+<br><code>const str1ke = { </code>
+<br><code>    pronouns: "He" | "Him",</code>
+<br><code>    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],</code>
+<br><code>    tools: [Node, Docker🐳],</code>
+<br><code>    interests: ["Web Development", "Tec", "app dev", "photography"],</code>
+<br><code>    databases: [MongoDB, MySQL, SQLite],</code>
+<br><code>    currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],</code>
+<br><code>    funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"</code>
+<br><code>};</code>
 
 <h3 align="center">Discord Profile Status</h3>
 <p align="center">
