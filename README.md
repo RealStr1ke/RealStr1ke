@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 </strong>
 </p>
 
+<hr>
+
 ```JavaScript
 const str1ke = { 
     pronouns: ["He", "Him", "Ask Pronouns"],
@@ -28,7 +30,7 @@ const str1ke = {
     funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
 };
 ```
-
+<hr>
 
 <h3 align="center">Discord Profile Status</h3>
 <p align="center">
@@ -37,11 +39,16 @@ const str1ke = {
     </a>
 </p>
 
-<hr />
+<hr>
 
-<h3 align="center">:trophy: Boring GitHub trophies</h3>
+<h3 align="center"><!-- :trophy: --> Boring GitHub stats</h3>
 <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealStr1ke&show_icons=true&theme=radical" />
+    </a>
+<!--
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=RealStr1ke&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories" />
     </a>
+-->
 </p>
