@@ -46,6 +46,11 @@ const str1ke = {
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealStr1ke&show_icons=true&theme=tokyonight&hide_border=true" />
     </a>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=445" />
+    </a>
+    
 <!--
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=RealStr1ke&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories" />
