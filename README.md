@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><strong>
     I'm a 14 year old high school freshman who just programs random projects for fun.
-    <br />
+    <br>
     Interested in data science, software, and video game development.
-    <br />
+    <br>
     Working on a multi-purpose Discord bot, and a COVID-19 dashboard for a project.
-    <br />
+    <br>
     Currently learning NodeJS, MySQL, Ruby, and database management.
 </strong>
 </p>
@@ -32,7 +32,7 @@ const str1ke = {
 ```
 <hr>
 
-<h3 align="center">Discord Profile Status</h3>
+<h3 align="center">Discord Status</h3>
 <p align="center">
     <a href="https://discord.com/users/411641088944766982">
         <img alt="discord profile presence" src="https://lanyard-profile-readme.vercel.app/api/411641088944766982?idleMessage=Busy%20torturing%20myself%20with%20programming%20errors....&theme=dark" />
@@ -44,7 +44,7 @@ const str1ke = {
 <h3 align="center"><!-- :trophy: --> Boring GitHub stats</h3>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealStr1ke&show_icons=true&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealStr1ke&show_icons=true&theme=tokyonight&hide_border=true" />
     </a>
 <!--
     <a href="https://github.com/ryo-ma/github-profile-trophy">
