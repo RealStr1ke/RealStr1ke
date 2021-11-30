@@ -2,6 +2,7 @@
 RealStr1ke/RealStr1ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h2 align="center">Hi :wave:, I'm Str1ke!</h2>
 
 <h3 align="center">About me</h3>
@@ -15,6 +16,7 @@ You can click the Preview link to take a look at your changes.
     <br>
     Currently learning NodeJS, MySQL, Ruby, and database management.
 </strong>
+<div align="center"><img  src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" /></div>
 </p>
 
 <hr>
