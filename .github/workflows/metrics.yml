@@ -69,7 +69,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, contributor 
           plugin_repositories_batch: 100
-          plugin_repositories_featured: RealStr1ke/Byte, RealStr1ke/COVID-19
+          plugin_repositories_featured: RealStr1ke/Byte, RealStr1ke/COVID-19-Study
           plugin_repositories_skipped: RealStr1ke, FLVS
           plugin_stars: yes
           plugin_stars_limit: 2
