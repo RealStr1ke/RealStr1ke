@@ -58,7 +58,7 @@ jobs:
           plugin_lines: yes
           plugin_music: yes
           plugin_music_limit: 4
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1EUMDoJuT8yJsl
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/1All5I9pyXjJ2ArZt4zuCX
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
