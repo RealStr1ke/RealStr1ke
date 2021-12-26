@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<!---
+RealStr1ke/RealStr1ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-You can use the [editor on GitHub](https://github.com/RealStr1ke/RealStr1ke/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2 align="center">Hi :wave:, I'm Str1ke!</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3 align="center">About me</h3>
 
-### Markdown
+<p align="center"><strong>
+    I'm a 14 year old high school freshman who just programs random projects for fun.
+    <br>
+    Interested in data science, software, and video game development.
+    <br>
+    Working on a multi-purpose Discord bot, and a COVID-19 dashboard for a project.
+    <br>
+    Currently learning NodeJS, MySQL, Ruby, and database management.
+</strong>
+<div align="center"><img  src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" /></div>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<hr>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```JavaScript
+const str1ke = { 
+    pronouns: ["He", "Him", "Ask Pronouns"],
+    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, NodeJS],
+    tools: [Node, Docker🐳],
+    interests: ["Web Development", "Front-End", "Back-End", "APIs", "Data Science", "Servers"],
+    databases: [MongoDB, MariaDB, MySQL, SQLite],
+    currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],
+    funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
+};
 ```
+<hr>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h3 align="center">Discord Status</h3>
+<p align="center">
+    <a href="https://discord.com/users/411641088944766982">
+        <img alt="discord profile presence" src="https://lanyard-profile-readme.vercel.app/api/411641088944766982?idleMessage=Probably%20busy%20torturing%20myself%20with%20programming%20errors....&theme=dark" />
+    </a>
+</p>
 
-### Jekyll Themes
+<hr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RealStr1ke/RealStr1ke/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h3 align="center">:trophy: Boring GitHub stats</h3>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealStr1ke&show_icons=true&theme=tokyonight&hide_border=true" />
+    </a>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=445" />
+    </a>
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=RealStr1ke&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories" />
+    </a>
+</p>
