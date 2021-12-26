@@ -58,7 +58,8 @@ const str1ke = {
 
 <h3 align="center">:trophy: Boring GitHub stats</h3>
 <p align="center">
-    <a href="https://github.com/lowlighter/metrics">
+<!--     <a href="https://github.com/lowlighter/metrics"> -->
+    <a href="https://metrics.lecoq.io/about/RealStr1ke">
         <img align="center" src="https://github.com/RealStr1ke/RealStr1ke/blob/main/github-metrics.svg" />
     </a>
 <!--
