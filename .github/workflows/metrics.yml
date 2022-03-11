@@ -14,6 +14,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          filename: assets/main.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: RealStr1ke
           template: classic
@@ -72,7 +73,9 @@ jobs:
           repositories_skipped: ${{ secrets.SKIPPED_REPOS }}
       - name: Music
         if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
+          filename: assets/music.svg
           plugin_music: yes
           plugin_music_limit: 4
           plugin_music_playlist: ${{ secrets.SPOTIFY_PLAYLIST }}
@@ -81,13 +84,12 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: general.svg
+          filename: assets/general.svg
+          base: header, activity, community, repositories, metadata
           token: ${{ secrets.GITHUB_TOKEN }}
           user: RealStr1ke
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
-          base: header
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: gist
           plugin_isocalendar: yes
