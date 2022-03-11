@@ -53,9 +53,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_playlist: ${{ secrets.SPOTIFY_PLAYLIST }}
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
@@ -73,12 +70,23 @@ jobs:
           plugin_topics_sort: stars
           repositories_affiliations: owner, contributor 
           repositories_skipped: ${{ secrets.SKIPPED_REPOS }}
+      - name: Music
+        if: ${{ success() || failure() }}
+        with:
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_playlist: ${{ secrets.SPOTIFY_PLAYLIST }}
+          
       - name: 🦑 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: RealStr1ke
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
           base: header
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: gist
