@@ -32,18 +32,6 @@ const str1ke = {
     funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
 };
 ```
-<hr>
-
-<h3 align="center">Profile Card</h3>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealStr1ke&show_icons=true&theme=tokyonight&hide_border=true" />
-    </a>
-    <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=445" />
-    </a>
-</p>
 
 <hr>
 
@@ -60,11 +48,25 @@ const str1ke = {
 <p align="center">
 <!--     <a href="https://github.com/lowlighter/metrics"> -->
     <a href="https://metrics.lecoq.io/about/RealStr1ke">
-        <img align="center" src="https://github.com/RealStr1ke/RealStr1ke/blob/main/github-metrics.svg" />
+        <img align="center" src="https://github.com/RealStr1ke/RealStr1ke/blob/main/assets/main.svg" />
     </a>
 <!--
     <br>
    <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=RealStr1ke&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories" />
-    </a> -->
+    </a> 
+<hr>
+
+<h3 align="center">Profile Card</h3>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealStr1ke&show_icons=true&theme=tokyonight&hide_border=true" />
+    </a>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=445" />
+    </a>
+</p>
+
+-->
 </p>
