@@ -26,6 +26,7 @@ const str1ke = {
     pronouns: ["He", "Him", "Ask Pronouns"],
     code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, NodeJS],
     tools: [Node, Docker🐳],
+    learning: [C, C#, C++, Ruby, Rust],
     interests: ["Web Development", "Front-End", "Back-End", "APIs", "Data Science", "Servers"],
     databases: [MongoDB, MariaDB, MySQL, SQLite],
     currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],
