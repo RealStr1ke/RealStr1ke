@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
     <br>
     Interested in data science, software, and video game development.
     <br>
-    Working on a multi-purpose Discord bot, and a COVID-19 dashboard for a project.
+    Currently maintaining <a href="https://github.com/RealStr1ke/Byte">Byte</a>, a multi-purpose Discord bot I made for fun
     <br>
-    Currently learning NodeJS, MySQL, Ruby, and database management.
+    Currently learning C, C#, C++, and Rust.
 </strong>
 <div align="center"><img  src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" /></div>
 </p>
@@ -26,10 +26,10 @@ const str1ke = {
     pronouns: ["He", "Him", "Ask Pronouns"],
     code: [Javascript, HTML, CSS, Python, Java],
     tools: [Node, Docker🐳],
-    learning: [C, C#, C++, Typescript, Ruby, Rust],
+    learning: [C, C#, C++, Rust],
     interests: ["Web Development", "Front-End", "Back-End", "APIs", "Data Science", "Servers"],
-    databases: [MongoDB, MariaDB, MySQL, SQLite],
-    currentFocus: ["Discord Bot Development", "COVID-19 Dashboard"],
+    databases: [MongoDB, MySQL, SQLite],
+    currentFocus: ["Discord API"],
     funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
 };
 ```
