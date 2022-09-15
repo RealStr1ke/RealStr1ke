@@ -54,9 +54,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
+#          plugin_notable: yes
+#          plugin_notable_from: all
+#          plugin_notable_repositories: yes
 #          plugin_repositories: 100
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, contributor 
