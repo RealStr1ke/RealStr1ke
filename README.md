@@ -3,12 +3,12 @@ RealStr1ke/RealStr1ke is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="center">Hi :wave:, I'm Str1ke!</h2>
+<h2 align="center">Hi :wave:, I'm Thandi / Str1ke!</h2>
 
 <h3 align="center">About me</h3>
 
 <p align="center"><strong>
-    I'm a 14 year old high school freshman who just programs random projects for fun.
+    I'm a 15 year old high school student who just programs random projects for fun.
     <br>
     Interested in data science, software, and video game development.
     <br>
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <br>
     Currently learning C, C#, C++, and Rust.
 </strong>
-<div align="center"><img  src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" /></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" /></div>
 </p>
 
 <hr>
