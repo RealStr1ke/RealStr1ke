@@ -19,7 +19,7 @@ jobs:
           user: RealStr1ke
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
+          config_timezone: America/Montreal
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -31,6 +31,9 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           # plugin_code: yes
           # plugin_code_lines: 4
           # plugin_code_load: 100
@@ -81,7 +84,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: RealStr1ke
           template: classic
-          config_timezone: America/New_York
+          config_timezone: America/Montreal
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: gist
           plugin_isocalendar: yes
@@ -97,12 +100,24 @@ jobs:
           plugin_notable: yes
           plugin_discussions: yes
 
+      - name: 🦑 Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: America/Montreal
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
+
       - name: 🎵 Music
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: assets/music.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: America/Montreal
           plugin_music: yes
           plugin_music_limit: 4
           plugin_music_playlist: ${{ secrets.SPOTIFY_PLAYLIST }}
