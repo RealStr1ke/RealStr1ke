@@ -3,7 +3,7 @@ RealStr1ke/RealStr1ke is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="center">Hi :wave:, I'm Thandi / Str1ke!</h2>
+<h2 align="center">Hi 👋, I'm Thandi / Str1ke!</h2>
 
 <h3 align="center">About me</h3>
 
@@ -44,18 +44,27 @@ const str1ke = {
 </p>
 
 <hr>
+<h3 alight="center">🎵 My Music Stats</h3>h3>
+<p align="center">
+<!--     <a href="https://github.com/lowlighter/metrics"> -->
+    <a href="https://metrics.lecoq.io/about/RealStr1ke">
+        <img align="center" src="https://github.com/RealStr1ke/RealStr1ke/blob/main/assets/music.svg" />
+    </a>
+</p>
+<hr>
 
-<h3 align="center">:trophy: Boring GitHub stats</h3>
+<h3 align="center">🏆 Boring GitHub stats</h3>
 <p align="center">
 <!--     <a href="https://github.com/lowlighter/metrics"> -->
     <a href="https://metrics.lecoq.io/about/RealStr1ke">
         <img align="center" src="https://github.com/RealStr1ke/RealStr1ke/blob/main/assets/main.svg" />
     </a>
+</p>
 <!--
     <br>
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=RealStr1ke&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories" />
-    </a> 
+        <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=RealStr1ke&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories" -->
+
 <hr>
 
 <h3 align="center">Profile Card</h3>
