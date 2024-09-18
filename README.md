@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Thandi R. Menelas</h2>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" /></div>
+<div align="center"><img src="https://i.ppy.sh/6b20f70268cb1d913a42ac62d82dc89188082d68/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f5938686b6e6a4d75656a4541414141432f6361742d7477697463682e676966" /></div>
 </p>
 
 <h3 align="center">About Me</h3>
