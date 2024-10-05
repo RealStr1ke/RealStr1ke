@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 const str1ke = {
     introduction: "Hi! 👋 | I'm a 17 year old dual-enrolled high school student who just programs random projects for fun.",
     pronouns: ["He", "Him", "Ask Pronouns"],
-    code: [JavaScript, HTML, CSS, Python, Java],
+    code: [JavaScript, Golang, HTML/CSS, Python, Java],
     tools: [Node.js, Git, Docker🐳],
     learning: [C, C#, C++, Rust...],
-    interests: ["Game Dev", "Web Dev", "Full Stack", "Data Science", "Servers"],
-    databases: [MongoDB, MySQL, SQLite],
-    currentFocus: ["Discord API"],
+    interests: ["Linux", "Web Dev", "Full Stack", "Data Science"],
+    databases: [MongoDB, MySQL, MariaDB, SQLite],
+    currentFocuses: ["Minecraft", "Discord", "Linux"],
     funQuote: "Code is like humor. When you have to explain it, it’s bad. – Cory House"
 };
 ```
