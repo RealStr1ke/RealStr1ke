@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ```JavaScript
 const str1ke = {
     introduction: "Hi! 👋 | I'm a 17 year old dual-enrolled high school student who just programs random projects for fun.",
-    pronouns: ["He", "Him", "Ask Pronouns"],
+    pronouns: ["He/Him", "They/Them", "Ask Pronouns"],
     code: [JavaScript, Golang, HTML/CSS, Python, Java],
     tools: [Node.js, Git, Docker🐳],
     learning: [C, C#, C++, Rust...],
