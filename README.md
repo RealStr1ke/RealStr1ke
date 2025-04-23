@@ -3,14 +3,12 @@ RealStr1ke/RealStr1ke is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Thandi R. Menelas</h2>
+<h1 align="center">Thandi Richard Menelas</h2>
 <div align="center"><img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" /></div>
 </p>
 
-<h3 align="center">About Me</h3>
-
 ```JavaScript
-let str1ke = {
+const str1ke = {
     introduction: "Hi! 👋 | I'm a 17 year old dual-enrolled high school student who just programs random projects for fun.",
     pronouns: ["He/Him", "They/Them", "Ask Pronouns"],
     code: [TypeScript, JavaScript, Golang, HTML/CSS, Python, Java],
