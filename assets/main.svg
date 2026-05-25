@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1004" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="975" class="">
     <defs>
         <style/>
     </defs>
@@ -346,8 +346,8 @@
                             <div class="label" title="The coronavirus disease 2019 (COVID-19) is an infectious disease caused by SARS-CoV-2.">covid-19</div>
                             <div class="label" title="">pihole-blocklists</div>
                             <div class="label" title="The user-friendly command line shell.">friendly interactive shell</div>
-                            <div class="label" title="Wayland is a replacement for the X11 window system protocol and architecture.">wayland</div>
                             <div class="label" title="">hyprland</div>
+                            <div class="label" title="Wayland is a replacement for the X11 window system protocol and architecture.">wayland</div>
                             <div class="label" title="">fish-plugin</div>
                             <div class="label" title="">neovim-config</div>
                             <div class="label" title="">rofi</div>
@@ -426,7 +426,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2026, 23:22:57 (timezone America/Montreal) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2026, 23:35:15 (timezone America/Montreal) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
