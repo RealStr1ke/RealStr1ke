@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ```JavaScript
 const str1ke = {
-    introduction: "Hi! 👋 | I'm an 18 year old developer who just programs random projects for fun.",
+    introduction: "Hi! 👋 | I'm a 19 year old developer who just programs random projects for fun.",
     pronouns: ["He/Him", "They/Them", "Ask Pronouns"],
     code: [TypeScript, JavaScript, Golang, HTML/CSS, Python, Java],
     tools: [Node.js, Git, Docker🐳],
